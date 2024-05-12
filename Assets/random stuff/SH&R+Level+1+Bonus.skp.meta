@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 1b12cbaaba99ef34cae77b4ef1808fb2
+SketchUpImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bridge_a_bmp
+    second: {fileID: 2800000, guid: 2697b4762f9247d439a2b69858e561fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BurnsMansion_l_bmp
+    second: {fileID: 2800000, guid: 74afa1332995b5642b8c84faf09f9631, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dumpster_bmp
+    second: {fileID: 2800000, guid: 7dbf87f8fc0906541b23cb686f7e8b1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EverS_bmp
+    second: {fileID: 2800000, guid: af87f18db9d6b2143bcb35f635616cf8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flags_RWB_bmp
+    second: {fileID: 2800000, guid: 0b048c0b73b8547479abed40d21adddc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grn_A_bmp
+    second: {fileID: 2800000, guid: 178bb70c31abb564883b80849ba208d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grn_B_bmp
+    second: {fileID: 2800000, guid: 05da19ab6cf29154dba018d1f733c97d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grn_H_bmp
+    second: {fileID: 2800000, guid: bb194e0e40198b64b93dec8ebbd9c8ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: L7krust_roof_bmp
+    second: {fileID: 2800000, guid: 008c2425407d1a747b5f9858f23a4bc7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LardDuct_bmp
+    second: {fileID: 2800000, guid: bc07266fa78053645987cb19a38edd63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LardVent_BMP
+    second: {fileID: 2800000, guid: 46d5f9d576316124697dcad52bc36d06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OakS_bmp
+    second: {fileID: 2800000, guid: ba525cccdba5dea49962f5649e98592a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: QuimbyEstatesWallB_bmp
+    second: {fileID: 2800000, guid: 8a057425808974a47850f27c238e875d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ret_Wood_bmp
+    second: {fileID: 2800000, guid: 69453a1bcffc71246b4f90baf875a266, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TreetrunkA_bmp
+    second: {fileID: 2800000, guid: 49d8350cd18e9e04b87604259761bb9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TreetrunkB_bmp
+    second: {fileID: 2800000, guid: 4f47e4d9fb8bb7b4abb154b89abe8075, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: asphalt_norm_bmp
+    second: {fileID: 2800000, guid: d456ad123ee193d428fb7ee9a376a3a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cCola_Wheel_bmp
+    second: {fileID: 2800000, guid: 73514e35fcf29af4db66ffa521eba072, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: car_wrecked_yellow_BMP
+    second: {fileID: 2800000, guid: ee94418ab674e62408dd2a11e60213fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: char_swatches_bmp
+    second: {fileID: 2800000, guid: 435b53d100d7cb148b91c65828ad5b13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chim_A_bmp
+    second: {fileID: 2800000, guid: 19b908ec076d77d43807f2bb9c777cbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: chim_B_bmp
+    second: {fileID: 2800000, guid: 0b192b7f1410c624294025bbd57a2864, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: concrete_bmp
+    second: {fileID: 2800000, guid: 89aa769638da99940948129e5210d0b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: driveway_bmp
+    second: {fileID: 2800000, guid: 80520b9cb2e61b64080673ea8b1652cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: escalator_rail_bmp
+    second: {fileID: 2800000, guid: 48e94641b2aaa8445997615fa32c3619, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fence_cedar_bmp
+    second: {fileID: 2800000, guid: c22b2f03c6a455940af02922737d9660, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fence_white_bmp
+    second: {fileID: 2800000, guid: ce8905197cbd094408f7cbe53ace995c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: finish_line_bmp
+    second: {fileID: 2800000, guid: bcb1a5236cf67b1449066a33a581b14c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: firetruck_bmp
+    second: {fileID: 2800000, guid: d4f336f26b0a48440a06196806ac1350, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: firetruck_ladder_bmp
+    second: {fileID: 2800000, guid: 76ceb8c1c9cee0e44be1a1b1c28f22eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: firetruck_sign_bmp
+    second: {fileID: 2800000, guid: 535239d192e1c444d927d3b3327d3eed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: firetruck_wheel_bmp
+    second: {fileID: 2800000, guid: 535ed78db9ac0cc4ea1e00a2c29898b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: firetruck_windshield_bmp
+    second: {fileID: 2800000, guid: dc02d59a8c4bb024585c0d545b56e975, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gasPump_bmp
+    second: {fileID: 2800000, guid: 587b0ae4de1a3e841af5afcfd4b466cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gasStationDoor_bmp
+    second: {fileID: 2800000, guid: 333727f811f38104d9acd70c9ec07165, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gasStationGarage_bmp
+    second: {fileID: 2800000, guid: ad93d3a719ba3f14ba3613de74d89ee5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gasStationWall_bmp
+    second: {fileID: 2800000, guid: df4da61fb0dffa14c87d50fce774f694, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gasStationWindow_bmp
+    second: {fileID: 2800000, guid: b4a2c15260599d14b91e1db279e25c96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: glass_bmp
+    second: {fileID: 2800000, guid: fa2528c83d9f7fa4994789425b357b1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: grassC_bmp
+    second: {fileID: 2800000, guid: a7ef08595154a3748bbc81b68a07def7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gry_found_drk_wrm_bmp
+    second: {fileID: 2800000, guid: c7cc3bbb92979c146ac6ff325113c47a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: krust_backdoor_bmp
+    second: {fileID: 2800000, guid: 384ba69a03ba8d94c9abe6d3a806b12f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: krust_frontdoor_bmp
+    second: {fileID: 2800000, guid: 0a615a8837834e743b9336b222e23f44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: krust_wall_bmp
+    second: {fileID: 2800000, guid: 829804dfbcecb3948b1c76a2b71730e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: monorail_trainSide_BMP
+    second: {fileID: 2800000, guid: ccb1e57372d8e024aaa0e97ff1dbada6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: newsign_bmp
+    second: {fileID: 2800000, guid: 18dbe4377c03abd47833b907030e7317, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: opt_grass_path_bmp
+    second: {fileID: 2800000, guid: fa57ae5d19e2a8a47b36f4f4fc3a4a53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: opt_pink_a_bmp
+    second: {fileID: 2800000, guid: 080436ef58b94564c95dcf5f53441872, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: opt_pnk1_B_bmp
+    second: {fileID: 2800000, guid: b06fd5f4d30db9740a713ca4cc1b3bcc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: opt_purp_A_bmp
+    second: {fileID: 2800000, guid: 9d420f7a10664464db30709e0b31e6f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rd1_norm_bmp
+    second: {fileID: 2800000, guid: 9794037589c301d479e99ba1475863d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rd2_crosswalk_bmp
+    second: {fileID: 2800000, guid: faf930b4e03ff83488cc1fa0fde09b22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rd2_norm_bmp
+    second: {fileID: 2800000, guid: c714201faba664249bfea692c15c354f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rd2_parking_bmp
+    second: {fileID: 2800000, guid: e0a48cf2af350a341b64a1e4ce147fb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rd3_cobble_BMP
+    second: {fileID: 2800000, guid: d982a4c09b9155744a083d670c8df78e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: redwhite_bmp
+    second: {fileID: 2800000, guid: 1e8852d42a3a09b42a8e52d7ae112037, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof_A_bmp
+    second: {fileID: 2800000, guid: a1d25391b61a29f46b1e0c302499d15d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof_B_bmp
+    second: {fileID: 2800000, guid: 7131344a5302e564193ee6cd256fab11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof_d_bmp
+    second: {fileID: 2800000, guid: 57f8a4eed6b26cd4d9e8576d877256a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: shrubRound_bmp
+    second: {fileID: 2800000, guid: f5f038d5c5a59204a866e358dcdbb0cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sidewlk_bmp
+    second: {fileID: 2800000, guid: 21c000718c8ff2346b0037d419fbfb3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: start6_bmp
+    second: {fileID: 2800000, guid: c978d22fe43c3ea4dba0a6919f90a12c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: start_line_bmp
+    second: {fileID: 2800000, guid: 3e2faf15fecf5734eb5ce42c8fb96d3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: street_lamp_bmp
+    second: {fileID: 2800000, guid: 204a0f15c50977c41a579327e6ed5d2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tire_red_bmp
+    second: {fileID: 2800000, guid: 75f142076a622874a94bc03297451806, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tire_white_bmp
+    second: {fileID: 2800000, guid: 555e6eefd5aba2746b4f2d3b084792e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vehicle_semi_BMP
+    second: {fileID: 2800000, guid: b544fdcd5a0e22e48bc7e084bc1d4cbb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: watertower_bmp
+    second: {fileID: 2800000, guid: 18c63e67655b96d438a2448ec97624ad, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000
+  assetHash:
+    serializedVersion: 2
+    Hash: a775a2bbfeb0ee10e6fa507fbe935e8b
+  fileUnit: 0

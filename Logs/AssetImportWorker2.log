@@ -1,0 +1,662 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.19f1 (244b723c30a6) revision 2378610'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 16309 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.19f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/Naglis/OneDrive/Desktop/ass corsa/vroom vroom
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+56910
+Successfully changed project path to: C:/Users/Naglis/OneDrive/Desktop/ass corsa/vroom vroom
+C:/Users/Naglis/OneDrive/Desktop/ass corsa/vroom vroom
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [9396] Host "[IP] 192.168.51.42 [Port] 0 [Flags] 2 [Guid] 3148940260 [EditorId] 3148940260 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-RBT2IBL) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [9396] Host "[IP] 192.168.51.42 [Port] 0 [Flags] 2 [Guid] 3148940260 [EditorId] 3148940260 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-RBT2IBL) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 7.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.19f1 (244b723c30a6)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Naglis/OneDrive/Desktop/ass corsa/vroom vroom/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   NVIDIA
+    VRAM:     5980 MB
+    Driver:   31.0.15.3742
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56004
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.012221 seconds.
+- Loaded All Assemblies, in  0.360 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.263 seconds
+Domain Reload Profiling: 621ms
+	BeginReloadAssembly (103ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (142ms)
+		LoadAssemblies (101ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (139ms)
+			TypeCache.Refresh (138ms)
+				TypeCache.ScanAssembly (125ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (263ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (206ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (144ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.658 seconds
+Refreshing native plugins compatible for Editor in 3.77 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.658 seconds
+Domain Reload Profiling: 1313ms
+	BeginReloadAssembly (137ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (19ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (418ms)
+		LoadAssemblies (285ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (211ms)
+			TypeCache.Refresh (189ms)
+				TypeCache.ScanAssembly (173ms)
+			ScanForSourceGeneratedMonoScriptInfo (16ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (658ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (478ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (76ms)
+			ProcessInitializeOnLoadAttributes (353ms)
+			ProcessInitializeOnLoadMethodAttributes (23ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 3.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3092 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (57.3 KB). Loaded Objects now: 3567.
+Memory consumption went from 132.1 MB to 132.0 MB.
+Total: 3.543800 ms (FindLiveObjects: 0.446200 ms CreateObjectMapping: 0.171100 ms MarkObjects: 2.798600 ms  DeleteObjects: 0.126800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 533.237632 seconds.
+  path: Assets/concrete_bmp.png
+  artifactKey: Guid(89aa769638da99940948129e5210d0b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/concrete_bmp.png using Guid(89aa769638da99940948129e5210d0b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72637480643939edf4a9efe0385acf5f') in 0.059070 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.376037 seconds.
+  path: Assets/Dumpster_bmp.png
+  artifactKey: Guid(7dbf87f8fc0906541b23cb686f7e8b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dumpster_bmp.png using Guid(7dbf87f8fc0906541b23cb686f7e8b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2265658f474a891537e7585d59e5896b') in 0.018580 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/EverS_bmp.png
+  artifactKey: Guid(af87f18db9d6b2143bcb35f635616cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EverS_bmp.png using Guid(af87f18db9d6b2143bcb35f635616cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ed0b6f0e6fb13c492c0646e89df1beb') in 0.020578 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.024876 seconds.
+  path: Assets/fence_white_bmp.png
+  artifactKey: Guid(ce8905197cbd094408f7cbe53ace995c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/fence_white_bmp.png using Guid(ce8905197cbd094408f7cbe53ace995c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '797cdaa9a7daa1ec6770fa31c3971f5d') in 0.020120 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.054539 seconds.
+  path: Assets/firetruck_bmp.png
+  artifactKey: Guid(d4f336f26b0a48440a06196806ac1350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/firetruck_bmp.png using Guid(d4f336f26b0a48440a06196806ac1350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b09f0d8acfcbc04b686c6efe908d9a5c') in 0.018543 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.283883 seconds.
+  path: Assets/firetruck_sign_bmp.png
+  artifactKey: Guid(535239d192e1c444d927d3b3327d3eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/firetruck_sign_bmp.png using Guid(535239d192e1c444d927d3b3327d3eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0201ceb5f1bafee208b44cb0226d8c') in 0.020562 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.345537 seconds.
+  path: Assets/gasPump_bmp.png
+  artifactKey: Guid(587b0ae4de1a3e841af5afcfd4b466cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gasPump_bmp.png using Guid(587b0ae4de1a3e841af5afcfd4b466cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d8610d71276735214b8d23fcace3989') in 0.019045 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.020722 seconds.
+  path: Assets/gasStationGarage_bmp.png
+  artifactKey: Guid(ad93d3a719ba3f14ba3613de74d89ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gasStationGarage_bmp.png using Guid(ad93d3a719ba3f14ba3613de74d89ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74e4628355dc7dcf085b56fe1b4050f8') in 0.018603 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.059149 seconds.
+  path: Assets/gasStationWindow_bmp.png
+  artifactKey: Guid(b4a2c15260599d14b91e1db279e25c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gasStationWindow_bmp.png using Guid(b4a2c15260599d14b91e1db279e25c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80e67fe29eced8524d18e5f7a3fe1fbe') in 0.020297 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.280311 seconds.
+  path: Assets/grassC_bmp.png
+  artifactKey: Guid(a7ef08595154a3748bbc81b68a07def7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/grassC_bmp.png using Guid(a7ef08595154a3748bbc81b68a07def7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd75f1d10bf402599af20bb5072491f34') in 0.020993 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.028653 seconds.
+  path: Assets/Grn_B_bmp.png
+  artifactKey: Guid(05da19ab6cf29154dba018d1f733c97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Grn_B_bmp.png using Guid(05da19ab6cf29154dba018d1f733c97d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bfa99bb4a5b746f60730046242bed52') in 0.017899 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.297516 seconds.
+  path: Assets/gry_found_drk_wrm_bmp.png
+  artifactKey: Guid(c7cc3bbb92979c146ac6ff325113c47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/gry_found_drk_wrm_bmp.png using Guid(c7cc3bbb92979c146ac6ff325113c47a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22f50f0242660c62b8a8eb581d2d7c31') in 0.018500 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.018694 seconds.
+  path: Assets/krust_frontdoor_bmp.png
+  artifactKey: Guid(0a615a8837834e743b9336b222e23f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/krust_frontdoor_bmp.png using Guid(0a615a8837834e743b9336b222e23f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcef4a63432d40dffc1f87ecef01376b') in 0.019887 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.989952 seconds.
+  path: Assets/L7krust_roof_bmp.png
+  artifactKey: Guid(008c2425407d1a747b5f9858f23a4bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/L7krust_roof_bmp.png using Guid(008c2425407d1a747b5f9858f23a4bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c00282344c2048375c555ea2c9a9c485') in 0.016975 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.044634 seconds.
+  path: Assets/LardVent_BMP.png
+  artifactKey: Guid(46d5f9d576316124697dcad52bc36d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LardVent_BMP.png using Guid(46d5f9d576316124697dcad52bc36d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c672f916f973a5e1e34780ba9e755a8e') in 0.017994 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.044525 seconds.
+  path: Assets/newsign_bmp.png
+  artifactKey: Guid(18dbe4377c03abd47833b907030e7317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/newsign_bmp.png using Guid(18dbe4377c03abd47833b907030e7317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c0d7a61c82d771ab389410878fa1d2') in 0.018817 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.007672 seconds.
+  path: Assets/opt_grass_path_bmp.png
+  artifactKey: Guid(fa57ae5d19e2a8a47b36f4f4fc3a4a53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/opt_grass_path_bmp.png using Guid(fa57ae5d19e2a8a47b36f4f4fc3a4a53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3befc61db4c2fc51275b821e8cbbb3b') in 0.017749 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.016313 seconds.
+  path: Assets/opt_pnk1_B_bmp.png
+  artifactKey: Guid(b06fd5f4d30db9740a713ca4cc1b3bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/opt_pnk1_B_bmp.png using Guid(b06fd5f4d30db9740a713ca4cc1b3bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceb1f0e059c476aa74f40e950e704514') in 0.017539 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.035062 seconds.
+  path: Assets/QuimbyEstatesWallB_bmp.png
+  artifactKey: Guid(8a057425808974a47850f27c238e875d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QuimbyEstatesWallB_bmp.png using Guid(8a057425808974a47850f27c238e875d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d2f60af504ff263eaf9781f24319315') in 0.018066 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.016379 seconds.
+  path: Assets/rd2_crosswalk_bmp.png
+  artifactKey: Guid(faf930b4e03ff83488cc1fa0fde09b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/rd2_crosswalk_bmp.png using Guid(faf930b4e03ff83488cc1fa0fde09b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cb685930eff8d17c38e82618b924324') in 0.019253 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.006495 seconds.
+  path: Assets/rd2_parking_bmp.png
+  artifactKey: Guid(e0a48cf2af350a341b64a1e4ce147fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/rd2_parking_bmp.png using Guid(e0a48cf2af350a341b64a1e4ce147fb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ca779a9b0603f588d8730488562890') in 0.018734 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.013092 seconds.
+  path: Assets/redwhite_bmp.png
+  artifactKey: Guid(1e8852d42a3a09b42a8e52d7ae112037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/redwhite_bmp.png using Guid(1e8852d42a3a09b42a8e52d7ae112037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcf4481bca4dfcf5818584af1bab7b4e') in 0.018552 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.036550 seconds.
+  path: Assets/roof_d_bmp.png
+  artifactKey: Guid(57f8a4eed6b26cd4d9e8576d877256a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/roof_d_bmp.png using Guid(57f8a4eed6b26cd4d9e8576d877256a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71981ae4fb88b0b1261a3f220509a246') in 0.018207 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.009991 seconds.
+  path: Assets/shrubRound_bmp.png
+  artifactKey: Guid(f5f038d5c5a59204a866e358dcdbb0cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shrubRound_bmp.png using Guid(f5f038d5c5a59204a866e358dcdbb0cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80970d7eb6f093f61150fb145ebe832b') in 0.016623 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.015609 seconds.
+  path: Assets/start6_bmp.png
+  artifactKey: Guid(c978d22fe43c3ea4dba0a6919f90a12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/start6_bmp.png using Guid(c978d22fe43c3ea4dba0a6919f90a12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d11c99ac98d6b37444fb781567e39a7') in 0.018267 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/tire_red_bmp.png
+  artifactKey: Guid(75f142076a622874a94bc03297451806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tire_red_bmp.png using Guid(75f142076a622874a94bc03297451806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbeba85cc88cc7f7b7ce9371a5bf8849') in 0.016425 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.016185 seconds.
+  path: Assets/tire_white_bmp.png
+  artifactKey: Guid(555e6eefd5aba2746b4f2d3b084792e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tire_white_bmp.png using Guid(555e6eefd5aba2746b4f2d3b084792e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce4a79eeab3fa49d59250816318b457') in 0.016800 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.005847 seconds.
+  path: Assets/TreetrunkB_bmp.png
+  artifactKey: Guid(4f47e4d9fb8bb7b4abb154b89abe8075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TreetrunkB_bmp.png using Guid(4f47e4d9fb8bb7b4abb154b89abe8075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd6472e02590fddf7a25256424e8581c') in 0.018019 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.015382 seconds.
+  path: Assets/watertower_bmp.png
+  artifactKey: Guid(18c63e67655b96d438a2448ec97624ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/watertower_bmp.png using Guid(18c63e67655b96d438a2448ec97624ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48480ad782fd17409d0a276191367f12') in 0.016839 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 182.261923 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a4fe85251aa2e89732c359432baa2c3') in 0.000486 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 41.724663 seconds.
+  path: Assets/random stuff
+  artifactKey: Guid(83c25d79cf26de34f8f138b81b305de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff using Guid(83c25d79cf26de34f8f138b81b305de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bb2b5cc4c64e9c317ce1cbb45fbbc45') in 0.000439 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 101.035109 seconds.
+  path: Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan
+  artifactKey: Guid(d1e01f618d56c884b9c609efef5bf9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan using Guid(d1e01f618d56c884b9c609efef5bf9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc13c3ea5962e0f9047aaca3289b7ad7') in 0.000417 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.087223 seconds.
+  path: Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/BottomA_bmp.png
+  artifactKey: Guid(475733c3a6469604c88c16cdf74d52a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/BottomA_bmp.png using Guid(475733c3a6469604c88c16cdf74d52a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62fcb6d2b3621f1a3e1d7baed3afa7f4') in 0.018925 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/famil_vBackNorm_bmp.png
+  artifactKey: Guid(4c797b6bafb6405429c6a48cec73600e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/famil_vBackNorm_bmp.png using Guid(4c797b6bafb6405429c6a48cec73600e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9eaed87b54c7cd4029599057f9ae3df') in 0.025240 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/famil_vDoorDDam_bmp.png
+  artifactKey: Guid(a60e1751158e7b3459dc460cbb578467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/famil_vDoorDDam_bmp.png using Guid(a60e1751158e7b3459dc460cbb578467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db66a039e218681d16349cb03efa2d2b') in 0.027760 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/famil_vDoorPDam_bmp.png
+  artifactKey: Guid(d084516f05923a64581320c370a63627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/famil_vDoorPDam_bmp.png using Guid(d084516f05923a64581320c370a63627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da260c10263ee35fb4cd7c002b9770fd') in 0.028070 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.492767 seconds.
+  path: Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/Parts
+  artifactKey: Guid(3e9b4974fe2258246af8d3c3227c0c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/Parts using Guid(3e9b4974fe2258246af8d3c3227c0c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b733ce5a036ac2b97ceba065b52bea7') in 0.000419 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.084267 seconds.
+  path: Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/Parts/DoorDRotShape.obj
+  artifactKey: Guid(dbbb002912a535b469a0947ef7b14936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/Parts/DoorDRotShape.obj using Guid(dbbb002912a535b469a0947ef7b14936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f783841712b306cbae1af6e3c6226abe') in 0.115367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 2.115196 seconds.
+  path: Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/Parts/HoodRotShape.obj
+  artifactKey: Guid(b50df89a4ff2982449fa9bf6401b222e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/Parts/HoodRotShape.obj using Guid(b50df89a4ff2982449fa9bf6401b222e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af2cef6e3a10192d88eb3fb68bb6b313') in 0.054340 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.386384 seconds.
+  path: Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/Parts/TrunkRotShape.obj
+  artifactKey: Guid(9a82586f6054fb044968cd127d108f13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/Parts/TrunkRotShape.obj using Guid(9a82586f6054fb044968cd127d108f13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05318dfcfc6682a77528afbdd0cfb5e8') in 0.019594 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 114.033254 seconds.
+  path: Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/famil_vHoodDam_bmp.png
+  artifactKey: Guid(e6940a748dfba714d8b9ac5ec8f34241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/famil_vHoodDam_bmp.png using Guid(e6940a748dfba714d8b9ac5ec8f34241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '497543d1777c975ad957e7524255e735') in 0.022305 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.145032 seconds.
+  path: Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/famil_vInt_bmp.png
+  artifactKey: Guid(a041fee314797c84397278bd3d663ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/famil_vInt_bmp.png using Guid(a041fee314797c84397278bd3d663ba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccb33f6062749bdf5fedffaf15d9aafe') in 0.031704 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.071475 seconds.
+  path: Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/famil_vShape.obj
+  artifactKey: Guid(5992bf881aa6af345bd9c294ca26385d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/famil_vShape.obj using Guid(5992bf881aa6af345bd9c294ca26385d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a78919c3e3c9ef8e8cf5a73ac220d601') in 0.125848 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 31
+========================================================================
+Received Import Request.
+  Time since last request: 0.234982 seconds.
+  path: Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/famil_vWheel_bmp.png
+  artifactKey: Guid(e740376d92b6de34799d88b8b1848a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/famil_vWheel_bmp.png using Guid(e740376d92b6de34799d88b8b1848a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aeaafb82d0094fbc0c7dad21b81c7d5') in 0.032418 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 98.545818 seconds.
+  path: Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/Materials
+  artifactKey: Guid(8684b74958b6c9b4da85727510a3bed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/Materials using Guid(8684b74958b6c9b4da85727510a3bed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c884e579ebbdb06eeb4ca3abc081b6') in 0.000468 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.063435 seconds.
+  path: Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/Materials/BottomA_bmp.mat
+  artifactKey: Guid(d9593c9b2d9617641959d5ada01f48b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PC Computer - The Simpsons Hit & Run - Family Sedan/Family Sedan/Materials/BottomA_bmp.mat using Guid(d9593c9b2d9617641959d5ada01f48b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33e6748c3b610bfd27996d48499a8afe') in 0.010063 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.392 seconds
+Refreshing native plugins compatible for Editor in 2.64 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.794 seconds
+Domain Reload Profiling: 1183ms
+	BeginReloadAssembly (138ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (177ms)
+		LoadAssemblies (244ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (9ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (795ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (370ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (59ms)
+			ProcessInitializeOnLoadAttributes (273ms)
+			ProcessInitializeOnLoadMethodAttributes (19ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 3.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3084 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.1 KB). Loaded Objects now: 3621.
+Memory consumption went from 137.7 MB to 137.7 MB.
+Total: 2.519000 ms (FindLiveObjects: 0.267200 ms CreateObjectMapping: 0.084600 ms MarkObjects: 2.113800 ms  DeleteObjects: 0.052800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 663.860861 seconds.
+  path: Assets/random stuff/50s Car Brand Planet Hype/brakeFlareA.bmp.png
+  artifactKey: Guid(621780ed6fed31647be401b243627ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/50s Car Brand Planet Hype/brakeFlareA.bmp.png using Guid(621780ed6fed31647be401b243627ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8664e681f8590a5d0ec50e30906a2925') in 0.056039 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/random stuff/50s Car Brand Planet Hype/hype_vAll.bmp.png
+  artifactKey: Guid(4a4ef70289c098d45b61bff2d57b576e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/50s Car Brand Planet Hype/hype_vAll.bmp.png using Guid(4a4ef70289c098d45b61bff2d57b576e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '300bff162daf514761c856bc334f77c7') in 0.034340 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/random stuff/50s Car Brand Planet Hype/Planet Hype Car.obj
+  artifactKey: Guid(84392a8ab019d6d4688ab0765e1e75ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/50s Car Brand Planet Hype/Planet Hype Car.obj using Guid(84392a8ab019d6d4688ab0765e1e75ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229cec1dc95f2da704b7633d79d7cf5e') in 0.113653 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 29.243376 seconds.
+  path: Assets/random stuff/50s Car Brand Planet Hype/Materials/hype_vAll.bmp.mat
+  artifactKey: Guid(fc6d1c298b1ca494ca489f8565507fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/50s Car Brand Planet Hype/Materials/hype_vAll.bmp.mat using Guid(fc6d1c298b1ca494ca489f8565507fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a861d32d33097095f8bb55034d07fe51') in 0.011400 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 22.244039 seconds.
+  path: Assets/random stuff/Family Sedan/famil_vShape.obj
+  artifactKey: Guid(5992bf881aa6af345bd9c294ca26385d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/Family Sedan/famil_vShape.obj using Guid(5992bf881aa6af345bd9c294ca26385d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b47baf7dc801e9f08879c3306c58c71') in 0.101956 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 31
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

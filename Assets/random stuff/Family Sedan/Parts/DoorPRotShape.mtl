@@ -1,0 +1,18 @@
+newmtl engine_m
+Kd 1 1 1
+map_Kd engine_bmp.png
+newmtl famil_vDoorPNorm_m
+Kd 1 1 1
+map_Kd famil_vDoorPNorm_bmp.png
+newmtl famil_vInt_m
+Kd 1 1 1
+map_Kd famil_vInt_bmp.png
+newmtl famil_vSide_m
+Kd 1 1 1
+map_Kd famil_vSide_bmp.png
+newmtl family_vTrim2_m
+Kd 1 1 1
+map_Kd family_vTrim2_bmp.png
+newmtl Windsheild_m
+Kd 1 1 1
+map_Kd Windsheild_bmp.png

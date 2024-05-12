@@ -1,0 +1,476 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.19f1 (244b723c30a6) revision 2378610'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 16309 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.19f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/Naglis/OneDrive/Desktop/ass corsa/vroom vroom
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+56910
+Successfully changed project path to: C:/Users/Naglis/OneDrive/Desktop/ass corsa/vroom vroom
+C:/Users/Naglis/OneDrive/Desktop/ass corsa/vroom vroom
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [10740] Host "[IP] 192.168.51.42 [Port] 0 [Flags] 2 [Guid] 3300466260 [EditorId] 3300466260 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-RBT2IBL) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [10740] Host "[IP] 192.168.51.42 [Port] 0 [Flags] 2 [Guid] 3300466260 [EditorId] 3300466260 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-RBT2IBL) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 8.02 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.19f1 (244b723c30a6)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Naglis/OneDrive/Desktop/ass corsa/vroom vroom/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   NVIDIA
+    VRAM:     5980 MB
+    Driver:   31.0.15.3742
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56172
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009209 seconds.
+- Loaded All Assemblies, in  0.305 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.232 seconds
+Domain Reload Profiling: 536ms
+	BeginReloadAssembly (88ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (120ms)
+		LoadAssemblies (87ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (118ms)
+			TypeCache.Refresh (117ms)
+				TypeCache.ScanAssembly (106ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (232ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (182ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (127ms)
+			ProcessInitializeOnLoadMethodAttributes (39ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.504 seconds
+Refreshing native plugins compatible for Editor in 2.72 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.513 seconds
+Domain Reload Profiling: 1015ms
+	BeginReloadAssembly (124ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (17ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (300ms)
+		LoadAssemblies (225ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (145ms)
+			TypeCache.Refresh (129ms)
+				TypeCache.ScanAssembly (118ms)
+			ScanForSourceGeneratedMonoScriptInfo (12ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (514ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (391ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (54ms)
+			ProcessInitializeOnLoadAttributes (300ms)
+			ProcessInitializeOnLoadMethodAttributes (19ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 2.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3092 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (57.5 KB). Loaded Objects now: 3567.
+Memory consumption went from 132.2 MB to 132.2 MB.
+Total: 2.689500 ms (FindLiveObjects: 0.203800 ms CreateObjectMapping: 0.079100 ms MarkObjects: 2.302300 ms  DeleteObjects: 0.103300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1775.923048 seconds.
+  path: Assets/random stuff/50s Car Brand Planet Hype/Materials
+  artifactKey: Guid(7a277b6a8156f88428b374e176c5fa63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/50s Car Brand Planet Hype/Materials using Guid(7a277b6a8156f88428b374e176c5fa63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '355035a836fb6d6f7fd8799ce39d782a') in 0.002182 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.087210 seconds.
+  path: Assets/random stuff/50s Car Brand Planet Hype/Materials/EnvMap.bmp.mat
+  artifactKey: Guid(a8adc790634aa1140a727c6800a2b5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/50s Car Brand Planet Hype/Materials/EnvMap.bmp.mat using Guid(a8adc790634aa1140a727c6800a2b5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa885d61cfde5537380a552c4ed624df') in 0.096257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 22.158611 seconds.
+  path: Assets/random stuff/Family Sedan/Parts/extrasShape.obj
+  artifactKey: Guid(8772083f99dee604f822c8dead7f322c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/Family Sedan/Parts/extrasShape.obj using Guid(8772083f99dee604f822c8dead7f322c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc22bdb8a9aa4ee54ffc0e40e1052cbb') in 0.089130 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 1.823632 seconds.
+  path: Assets/random stuff/Family Sedan/Parts/DoorDRotShape.obj
+  artifactKey: Guid(dbbb002912a535b469a0947ef7b14936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/Family Sedan/Parts/DoorDRotShape.obj using Guid(dbbb002912a535b469a0947ef7b14936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3bbdf08349f56029ce6027af219cc14') in 0.037967 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.463633 seconds.
+  path: Assets/random stuff/Family Sedan/Parts/DoorPRotShape.obj
+  artifactKey: Guid(37a4ab777f32add4dbaac6092100c948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/Family Sedan/Parts/DoorPRotShape.obj using Guid(37a4ab777f32add4dbaac6092100c948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88695eed24adc78476a490776d8089c7') in 0.036699 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 21
+========================================================================
+Received Import Request.
+  Time since last request: 0.181689 seconds.
+  path: Assets/random stuff/Family Sedan/Parts/TrunkRotShape.obj
+  artifactKey: Guid(9a82586f6054fb044968cd127d108f13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/Family Sedan/Parts/TrunkRotShape.obj using Guid(9a82586f6054fb044968cd127d108f13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd99dffac56bed5ff0dc67480d6322fc1') in 0.019055 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 1.354887 seconds.
+  path: Assets/random stuff/Family Sedan/Parts/HoodRotShape.obj
+  artifactKey: Guid(b50df89a4ff2982449fa9bf6401b222e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/Family Sedan/Parts/HoodRotShape.obj using Guid(b50df89a4ff2982449fa9bf6401b222e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fac1f89f07d95c2de8c7624bad5429cf') in 0.019248 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.152422 seconds.
+  path: Assets/random stuff/Family Sedan/Parts/wShape1.obj
+  artifactKey: Guid(2c0f0921ebf2dbf4c9a9c871463e1c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/Family Sedan/Parts/wShape1.obj using Guid(2c0f0921ebf2dbf4c9a9c871463e1c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afb5bdd45ecae7f15ba5848d548139a8') in 0.035651 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 53.686226 seconds.
+  path: Assets/random stuff/50s Car Brand Planet Hype/Planet Hype Car.mtl
+  artifactKey: Guid(ffb74b78e877ff342ae494ffd1615bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/50s Car Brand Planet Hype/Planet Hype Car.mtl using Guid(ffb74b78e877ff342ae494ffd1615bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f220c6ef3e10645cdcb1f44d03641f46') in 0.000859 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 34.753555 seconds.
+  path: Assets/random stuff/50s Car Brand Planet Hype/Planet Hype Car.obj
+  artifactKey: Guid(84392a8ab019d6d4688ab0765e1e75ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/50s Car Brand Planet Hype/Planet Hype Car.obj using Guid(84392a8ab019d6d4688ab0765e1e75ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '685ee60ca140de0ee04b9f655f77459e') in 0.022920 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 40.853047 seconds.
+  path: Assets/random stuff/50s Car Brand Planet Hype/Materials/defaultMat.mat
+  artifactKey: Guid(42fb9e0500c229f4bb015c48c1c67121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/50s Car Brand Planet Hype/Materials/defaultMat.mat using Guid(42fb9e0500c229f4bb015c48c1c67121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '406f5f925f8b02272241067e342307a8') in 0.011382 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 82.744726 seconds.
+  path: Assets/random stuff/50s Car Brand Planet Hype/brakeFlareA.bmp 1.png
+  artifactKey: Guid(637bd650f231eef45909d7fe9870ae04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/50s Car Brand Planet Hype/brakeFlareA.bmp 1.png using Guid(637bd650f231eef45909d7fe9870ae04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb12b4f5fd203d87fbaec6b2b7e794c') in 0.037118 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/random stuff/50s Car Brand Planet Hype/Windsheild.bmp 1.png
+  artifactKey: Guid(619236f19ccc6844aa2a90d6f369aa91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/50s Car Brand Planet Hype/Windsheild.bmp 1.png using Guid(619236f19ccc6844aa2a90d6f369aa91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60cfccb650b1c312adce8d8929468104') in 0.011174 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/random stuff/50s Car Brand Planet Hype/hype_vAll.bmp 1.png
+  artifactKey: Guid(25cc90d07b23491498dacd456379435b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/50s Car Brand Planet Hype/hype_vAll.bmp 1.png using Guid(25cc90d07b23491498dacd456379435b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49985de5aa6d69d74bfea9ba366dc415') in 0.016299 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 59.452409 seconds.
+  path: Assets/random stuff/50s Car Brand Planet Hype/Planet Hype Car.obj
+  artifactKey: Guid(84392a8ab019d6d4688ab0765e1e75ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/50s Car Brand Planet Hype/Planet Hype Car.obj using Guid(84392a8ab019d6d4688ab0765e1e75ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf8cba0ec8a7a255c05fe5c6e96bdca') in 0.019536 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 363.017358 seconds.
+  path: Assets/random stuff/50s Car Brand Planet Hype/Materials/Windsheild.bmp.mat
+  artifactKey: Guid(2ee80812d61e37644b4d3b4388c4bd2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/50s Car Brand Planet Hype/Materials/Windsheild.bmp.mat using Guid(2ee80812d61e37644b4d3b4388c4bd2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4224571fd2f7a3431b56a788cdb8f5c7') in 0.012171 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 114.244539 seconds.
+  path: Assets/Planet Hype Car.obj.glb
+  artifactKey: Guid(c17ca280112b41143bf77170ac509cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Planet Hype Car.obj.glb using Guid(c17ca280112b41143bf77170ac509cae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f8267ab626a80f9b9e2d2a3632e8635') in 0.000846 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 191.451538 seconds.
+  path: Assets/random stuff/homer_v/BottomA.bmp.png
+  artifactKey: Guid(dca9dc8f8f4f1794ea0b04804fb3426d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/homer_v/BottomA.bmp.png using Guid(dca9dc8f8f4f1794ea0b04804fb3426d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '823ab4d49438de515c0f7972b852b63c') in 0.023112 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/random stuff/homer_v/homer_vBackSide.bmp.png
+  artifactKey: Guid(8ad4e582e63afc2488ec54f12cbec817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/homer_v/homer_vBackSide.bmp.png using Guid(8ad4e582e63afc2488ec54f12cbec817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b87b552def29373b74d22dd9a46f7b4') in 0.018297 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/random stuff/homer_v/glow2.bmp.png
+  artifactKey: Guid(64d111afdfeeece44b90d599db7d14ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/homer_v/glow2.bmp.png using Guid(64d111afdfeeece44b90d599db7d14ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3430a759700acf5b319630736c230e5a') in 0.018275 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/random stuff/homer_v/homer_vBackNorm.bmp.png
+  artifactKey: Guid(fac4796585aa785459f64308429e4b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/homer_v/homer_vBackNorm.bmp.png using Guid(fac4796585aa785459f64308429e4b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b196174d424772993c434b99429f1e85') in 0.018329 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/random stuff/homer_v/homer_vChrome.bmp.png
+  artifactKey: Guid(8cc32d91535e5f44f98224a402c9b24f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/homer_v/homer_vChrome.bmp.png using Guid(8cc32d91535e5f44f98224a402c9b24f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d83da4772dd5fe5f90be3dbfc43971') in 0.017157 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/random stuff/homer_v/HeadFlareA.bmp.png
+  artifactKey: Guid(43b46ed611dbe7a4dad03daaf4333685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/homer_v/HeadFlareA.bmp.png using Guid(43b46ed611dbe7a4dad03daaf4333685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a0a9471fbb27fabd665aa60195dbd58') in 0.016265 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/random stuff/homer_v/homer_v.obj
+  artifactKey: Guid(c34d1ac5878ec6c4290511c0b53b0208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/homer_v/homer_v.obj using Guid(c34d1ac5878ec6c4290511c0b53b0208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a25bb13343c6f7e2ed47e2c8214c2c2') in 0.058746 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 29
+========================================================================
+Received Import Request.
+  Time since last request: 1.781945 seconds.
+  path: Assets/random stuff/homer_v/homer_vDoorPNorm.bmp.png
+  artifactKey: Guid(166a065e774982a49ab24287fe548b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/homer_v/homer_vDoorPNorm.bmp.png using Guid(166a065e774982a49ab24287fe548b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c27d2d2c1dad96e13034c027aef9314') in 0.014677 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/random stuff/homer_v/homer_vInt.bmp.png
+  artifactKey: Guid(4c8b7f1bb42fdcf48a8c06424273e654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/homer_v/homer_vInt.bmp.png using Guid(4c8b7f1bb42fdcf48a8c06424273e654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef55d008aa0aad5eab8e311449b43908') in 0.018307 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001525 seconds.
+  path: Assets/random stuff/homer_v/homer_vTrunkInt.bmp.png
+  artifactKey: Guid(81956b47de978db458971522b53e278e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/homer_v/homer_vTrunkInt.bmp.png using Guid(81956b47de978db458971522b53e278e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b79d55e4e19354beaeff5cab523378a3') in 0.017507 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.008351 seconds.
+  path: Assets/random stuff/homer_v/Windsheild.bmp.png
+  artifactKey: Guid(fbf9fba852fa67d458443229bc8d7301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/homer_v/Windsheild.bmp.png using Guid(fbf9fba852fa67d458443229bc8d7301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d5752bdf5b13d2071a6595421a9a53c') in 0.017293 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.111245 seconds.
+  path: Assets/random stuff/homer_v/Damaged
+  artifactKey: Guid(260b9729b8a976d45ad32d95a3316cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/homer_v/Damaged using Guid(260b9729b8a976d45ad32d95a3316cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e328d8824eadff96f3b32103f25aea0') in 0.000514 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.464780 seconds.
+  path: Assets/random stuff/homer_v/Damaged/brakeFlareA.bmp.png
+  artifactKey: Guid(7f84d304f3eda504fa0be00f49aa7705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/homer_v/Damaged/brakeFlareA.bmp.png using Guid(7f84d304f3eda504fa0be00f49aa7705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '038ec6e24dcedd0b41fb1dbb7a2551b8') in 0.020797 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/random stuff/homer_v/Damaged/homer_vSideFL.bmp.png
+  artifactKey: Guid(4a9a7608ece116c4b983cd4f92c7face) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/homer_v/Damaged/homer_vSideFL.bmp.png using Guid(4a9a7608ece116c4b983cd4f92c7face) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '220bcfc04d446adfdb602dc4a94c6e4d') in 0.018712 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/random stuff/homer_v/Damaged/homer_vHoodDam.bmp.png
+  artifactKey: Guid(b1221c5456e3c394b94106cb8ca2dffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/homer_v/Damaged/homer_vHoodDam.bmp.png using Guid(b1221c5456e3c394b94106cb8ca2dffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e34e7333a206112e461fdafc4a28811') in 0.018644 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 130.782290 seconds.
+  path: Assets/random stuff/Longhorn/apu_v.obj
+  artifactKey: Guid(87f40216a6bcb7f43b54998d7eaa61a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/Longhorn/apu_v.obj using Guid(87f40216a6bcb7f43b54998d7eaa61a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b623f3ed44b166e38b22c1fff4347d58') in 0.057864 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/random stuff/Longhorn/apu_vHood.bmp.png
+  artifactKey: Guid(b29375869bff2594b98ed97c7c27a723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/Longhorn/apu_vHood.bmp.png using Guid(b29375869bff2594b98ed97c7c27a723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '861d9655b35acb67e8fd136dfae9269c') in 0.017419 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/random stuff/Longhorn/apu_vWheel.bmp.png
+  artifactKey: Guid(890aa281aba6ce249af0f90457dd755d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/Longhorn/apu_vWheel.bmp.png using Guid(890aa281aba6ce249af0f90457dd755d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '589fc8a2d42d93064b5c51fd090d513c') in 0.019003 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/random stuff/Longhorn/Windsheild.bmp.png
+  artifactKey: Guid(f5913d50fd761df49992ebcf7714deea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/random stuff/Longhorn/Windsheild.bmp.png using Guid(f5913d50fd761df49992ebcf7714deea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf6295f291c9a8de0475dd7ba38370d5') in 0.012177 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

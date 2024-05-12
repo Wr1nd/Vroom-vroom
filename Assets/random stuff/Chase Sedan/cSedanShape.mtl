@@ -1,0 +1,24 @@
+newmtl BottomA_m
+Kd 1 1 1
+map_Kd BottomA_bmp.png
+newmtl cSedanBackNorm_m
+Kd 1 1 1
+map_Kd cSedanBackNorm_bmp.png
+newmtl cSedanDoorDNorm_m
+Kd 1 1 1
+map_Kd cSedanDoorDNorm_bmp.png
+newmtl cSedanHoodNorm_m
+Kd 1 1 1
+map_Kd cSedanHoodNorm_bmp.png
+newmtl csedanwheel_m
+Kd 1 1 1
+map_Kd csedanwheel_bmp.png
+newmtl WindsheildC_m
+Kd 1 1 1
+map_Kd WindsheildC_bmp.png
+newmtl cPoliceLights_m
+Kd 1 1 1
+map_Kd cPoliceLights_bmp.png
+newmtl csedanRoof_m
+Kd 1 1 1
+map_Kd csedanRoof_bmp.png

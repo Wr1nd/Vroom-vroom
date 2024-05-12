@@ -1,0 +1,9 @@
+newmtl BottomA_m
+Kd 1 1 1
+map_Kd BottomA_bmp.png
+newmtl famil_vDuff_m
+Kd 1 1 1
+map_Kd famil_vDuff_bmp.png
+newmtl famil_vInt_m
+Kd 1 1 1
+map_Kd famil_vInt_bmp.png
